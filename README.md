@@ -13,7 +13,6 @@ node_load15
 4) node_filesystem_avail_bytes{mountpoint="/"}
 
 3:
-<img width="2536" height="1305" alt="image" src="https://github.com/user-attachments/assets/36f06b8e-9363-4c12-ac18-13937676092c" />
 <img width="2536" height="1305" alt="image" src="https://github.com/user-attachments/assets/76d03e60-2ccd-47e7-81df-b13d77705dd2" />
 <img width="2536" height="1305" alt="image" src="https://github.com/user-attachments/assets/42d7d930-5e94-4a19-b189-836cce31c421" />
 <img width="2536" height="1305" alt="image" src="https://github.com/user-attachments/assets/78300c71-7784-4231-b728-5848b1e0993b" />
