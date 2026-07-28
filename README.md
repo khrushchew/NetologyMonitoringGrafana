@@ -22,7 +22,7 @@ node_load15
 <img width="2536" height="1305" alt="image" src="https://github.com/user-attachments/assets/216598f1-2926-41be-b196-3a48e52881c7" />
 
 4:
-'''json
+```json
 {
   "annotations": {
     "list": [
@@ -684,4 +684,4 @@ node_load15
   "uid": "6Py4xsEDz",
   "version": 10
 }
-'''
+```
